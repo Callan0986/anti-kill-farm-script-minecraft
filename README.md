@@ -1,7 +1,7 @@
 # anti-kill-farm-script-minecraft
 How to make a skript file.
 
-• First dowload skript https://github.com/SkriptLang/Skript/releases
+• First dowload skript https://github.com/SkriptLang/Skript
 
 • Once dowloaded put it into your plugins folder
 
@@ -18,3 +18,5 @@ How to make a skript file.
 • Once in the server do /sk reload anti kill farm skript
 
 • Finally test If any problems report it in issues
+
+• Youtube video: 
